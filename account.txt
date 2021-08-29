@@ -1,0 +1,5 @@
+4
+zane;12345;12345;391278.0;true;Savings Account
+zoe;55555;54321;599696.25;false;Savings Account
+shawn;98765;11111;599695.25;true;Fixed Deposit account
+shawn;66666;22222;599695.25;true;Fixed Deposit account
